@@ -1,3 +1,8 @@
+<p align="center">
+<img height="100px" src="assets/logo_roketset.jpg" alt="logo rocketset">
+</p>
+
+
 # Rocketpay
 
 To start your Phoenix server:
