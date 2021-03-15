@@ -17,17 +17,18 @@
 
 ## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - [Elixir](https://github.com/elixir-lang/elixir)
 - [Phoenix](https://github.com/phoenixframework/phoenix)
 - [Ecto](https://github.com/elixir-ecto/ecto)
 
-## 💻 Projeto
+</br>
 
-O Rocketpay é uma aplicação que simula uma API de pagamentos entre usuários, sendo possível realizar depósitos, saques e transferências.
+## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Projeto
 
+Rocketpay é um projeto da Trilha Elixir da 4ª Edição da NLW, organizada pela Rocketset. É uma aplicação API de depósitos, saques e transferência entre usuários, simulando transações bancárias. 
 
+- *O código foi feito acompanhando as aulas durante a semana, pode conter pequenas diferenças do código apresentado e até pequenos erros.*
+- *Não foi copiado do repositorio disponibilizado ao final do curso.*
 
 
 
