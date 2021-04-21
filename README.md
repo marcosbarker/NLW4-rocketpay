@@ -1,3 +1,5 @@
+<a name="back-to-top">
+
 <p align="center">
 <img height="200px" src="assets/logo_roketset.jpg" alt="logo rocketset">
 </p>
@@ -28,18 +30,11 @@
 Rocketpay é um projeto da Trilha Elixir da 4ª Edição da NLW, organizada pela Rocketset. É uma aplicação API de depósitos, saques e transferência entre usuários, simulando transações bancárias. 
 
 - *O código foi feito acompanhando as aulas durante a semana, pode conter pequenas diferenças do código apresentado e até pequenos erros.*
-- *Não foi copiado do repositorio disponibilizado ao final do curso.*
+- *Não foi copiado do repositório disponibilizado ao final do curso.*
 
+</br>
 
-
-
-
-
-
-
-
-<!--
-## 🚀 Como executar
+## ⚡Como executar
 
 Para iniciar o seu servidor Phoenix:
 
@@ -49,10 +44,17 @@ Para iniciar o seu servidor Phoenix:
 
 Agora você pode acessar [`localhost:4000`](http://localhost:4000) do seu navegador.
 
-Pronto para colocar em produção? Dá uma olhada nos [guias de deploy](https://hexdocs.pm/phoenix/deployment.html).
+</br>
 
-## ⚡️ Saiba mais
+## 🛠Pronto para colocar em produção? 
+Dá uma olhada nos [guias de deploy](https://hexdocs.pm/phoenix/deployment.html).
 
+</br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
+
+<!--
+## ⚡ Saiba mais
 - Website oficial: [https://www.phoenixframework.org](https://www.phoenixframework.org/)
 - Guias: [https://hexdocs.pm/phoenix/overview.html](https://hexdocs.pm/phoenix/overview.html)
 - Documentação: [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
