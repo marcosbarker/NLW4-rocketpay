@@ -15,11 +15,11 @@
 <img height="100px" src="https://slackmojis.com/emojis/3732-phoenix_framework/download">
 </p>
 
-## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologias
+## <img  height="45px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologias
 
-- [Elixir](https://github.com/elixir-lang/elixir)
-- [Phoenix](https://github.com/phoenixframework/phoenix)
-- [Ecto](https://github.com/elixir-ecto/ecto)
+- [**Elixir**](https://elixir-lang.org/)    [(*Documentação*)](https://elixir-lang.org/docs.html)
+- [**Phoenix**](https://www.phoenixframework.org/)    [(*Documentação*)](https://hexdocs.pm/phoenix/Phoenix.html)
+- [**Ecto**](https://hexdocs.pm/ecto/getting-started.html#content)    [(*Documentação*)](https://hexdocs.pm/ecto/Ecto.html)
 
 </br>
 
